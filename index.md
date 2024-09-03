@@ -11,5 +11,4 @@ My journey starts here.
 <h3>Baking heading</h3>
 <p>baking paragraph desc</p>
 
-<button>testing button href="https://www.w3schools.com/html/default.asp"</button>
-
+<button onclick="window.location.href = '/_includes/nav/tools_setup.html';">HOME</button>
