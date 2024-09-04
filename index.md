@@ -31,4 +31,3 @@ hide: true
 
 <p> Use the links above to navigate to the recipes of your choosing! </p>
 </div>
->>>>>>> b4575e8 (index part 2)
