@@ -5,28 +5,8 @@ description: Home Page
 hide: true
 ---
 
-<<<<<<< HEAD
 
 
-=======
-  <h1>Baking!</h1>
-
-  <p>Important basic Web development Tutorials are given below.</p>
-  <style>
-    .block {
-      display: block;
-      width: 50%;
-      border: none;
-      background-color: #000000;
-      color: white;
-      padding: 14px 28px;
-      font-size: 16px;
-      cursor: pointer;
-      text-align: center;
-    }
-  </style>
-  
->>>>>>> b4575e8 (index part 2)
 
 <div>
   <p>To be a stellar AP CSP student, there are many requirements to satisfy. By clicking on the button below, you will visit the College Board AP Computer Science Principles.</p>
