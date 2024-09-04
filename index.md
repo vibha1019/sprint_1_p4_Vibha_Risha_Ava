@@ -11,14 +11,15 @@ hide: true
   <button onclick="window.location.href='https://sallysbakingaddiction.com/';">Baking Recipes!</button>
 </div>
 
+<div style="background-color: #ffe6e6; padding: 20px; border-radius: 15px;">
+  <h2 style="color: black;">Recipes</h2>
+  <a href="sweet/">
+    <button class="block"><b>Sweet Recipes</b></button>
+  </a>
 
-<a href="sweet/">
-  <button class="block"><b>Sweet Recipes</b></button>
-</a>
+  <a href="savory/">
+    <button class="block"><b>Savory Recipes</b></button>
+  </a>
 
-<a href="savory/">
-  <button class="block"><b>Savory Recipes</b></button>
-</a>
-
-<p> Use the links above to navigate to the recipes of your choosing! </p>
+  <p> Use the links above to navigate to the recipes of your choosing! </p>
 </div>
