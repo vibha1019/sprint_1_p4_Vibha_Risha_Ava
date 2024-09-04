@@ -5,21 +5,12 @@ description: Home Page
 hide: true
 ---
 
-<div style="background-color: lightblue; padding: 20px; border-radius: 15px;">
-  <h2>AP CSP Students Click Here!</h2>
-  <p style="color: black;">To be a stellar AP CSP student, there are many requirements to satisfy. By clicking on the button below, you will visit the College Board AP Computer Science Principles.</p>
-  <button onclick="window.location.href='https://apstudents.collegeboard.org/courses/ap-computer-science-principles';">AP CSP</button>
+<div style="background-color: #ffe6e6; padding: 20px; border-radius: 15px;">
+  <h2 style="color: black;">Baking Beginners Click Here!</h2>
+  <p style="color: black;"> Balancing being a stellar baker and AP CSP student can be challenging. Follow Sally's Baking Addiction to improve your baking skills and find delicious recipes! </p>
+  <button onclick="window.location.href='https://sallysbakingaddiction.com/';">Baking Recipes!</button>
 </div>
 
-
-<div>
-  <p>To be a stellar AP CSP student, there are many requirements to satisfy. By clicking on the button below, you will visit the College Board AP Computer Science Principles.</p>
-  <button onclick="window.location.href='https://apstudents.collegeboard.org/courses/ap-computer-science-principles';">AP CSP</button>
-</div>
-<button onclick="window.location.href='https://apstudents.collegeboard.org/courses/ap-computer-science-principles';"> AP CSP </button>
-
-
-<div>
 
 <a href="sweet/">
   <button class="block"><b>Sweet Recipes</b></button>
